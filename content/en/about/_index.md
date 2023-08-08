@@ -6,67 +6,44 @@ type : list-single
 The following content came from the [Compact Academic CV](https://www.latextemplates.com/template/compact-academic-cv) by [Dario Taraborelli](https://github.com/dartar).
 {{<end>}}
 
-## Albert Einstein
+## Qiushi Zhou
 
-Institute for Advanced Study\
-Einstein Drive/
-Princeton, N.J. 08540 USA
+Department of Land Management\Zhejiang University
+Hangzhou/
+China, P.R., 310058
 
-Phone: 609-734-8000\
-Mobile: 609-924-8399
-
-Email: a.einstein@ias.edu\
-URL: http://www.ias.edu/spfeatures/einstein/
-
-Born: March 12, 1879—Ulm, Germany\
-Nationality: German/American
+Email: zhouqshi@zju.edu.cn；zhouqshi@foxmail.com
+URL: https://qiushi-zhou196.github.io
 
 ### Current position
-Emeritus Professor, Institute for Advanced Study, Princeton 
+PhD candidate
 
-### Areas of specialisation
-Physics; Relativity Theory
-
-### Appointments held
-
-1903-1908, Swiss Patent Office, Bern\
-1908-1911, University of Bern\
-1911-1912, University of Zürich\
-1912-1914, Charles University of Prague\
-1914-1932, Prussian Academy of Sciences, Berlin\
-1920-1930, University of Leiden\
-1932-1955, Institute for Advanced Study, Princeton
+### Researchgate interests
+Land use change；Land use model；Biodiversity conservation
 
 ### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
 
-### Grants, honours & awards
-1921, Nobel Prize in Physics, Nobel Foundation
+Ph.D. (2021.9- ): Department of Land Management, Zhejiang University
+M.S. (2018.9-2021.6): Department of Land Management, Huazhong Agricultural University
+B.S (2014.9-2018.6): Department of Land Management, Huazhong Agricultural University
 
 ### Publications & talks
 #### Journal articles
-1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
-2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
-1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
-3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
-1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
-4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
-5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
-6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
-7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
+1. Yue W., Zhou Q., Li M*.,van Vliet J. (2023). Relocating built-up land for biodiversity conservation in an uncertain future. (Journal of Environmental Management). https://doi.org/10.1016/j.jenvman.2023.118706
+2. Yue, W., Zhou, Q., Li, M., Zhang, X*. (2023). Research on development land intensity for Main Function Zones: Pattern identification and Spatiotemporal evolution. City Planning Review (in Chinses).
 
-#### Books
-Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
+3. Guo A., Yue W*., Yang J., Xue B., Li M., He T., Zhang M., Jin X., Zhou Q.(2023). Cropland abandonment in China: Patterns, drivers, and implications for food security. Journal of Cleaner Production. https://doi.org/10.1016/j.jclepro.2023.138154
 
-#### Newspaper articles
-1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
-2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
+4. Yue, W., Feng, B., Zhou, Q., Xu, R., & Li, M*. (2022). An assessment of the Ecological Conservation 
+Redline: Unlocking priority areas for conservation. Journal of Environmental Planning and Management. https://doi.org/10.1080/09640568.2022.2145939
 
-### Teaching
+5. Ke, X., Zhou, Q., Zuo, C*., Tang, L., & Turner, A. (2020). Spatial impact of cropland supplement policy on regional ecosystem services under urban expansion circumstance: a case study of Hubei Province, China. Journal of Land Use Science, 15(5), 673-689. https://doi.org/10.1080/1747423X.2020.1817166
 
-...
+6. Tang, L., Ke, X., Zhou, Q., Wang, L., & Koomen, E. (2020). Projecting future impacts of cropland reclamation policies on carbon storage. Ecological Indicators, 119, 106835. https://doi.org/10.1016/j.ecolind.2020.106835
 
-### Service to the profession
+7. Tang, L., Ke, X., Chen, Y., Wang, L., Zhou, Q., Zheng, W., & Xiao, B. (2021). Which impacts more seriously on natural habitat loss and degradation? Cropland expansion or urban expansion?. Land Degradation & Development, 32(2), 946-964. https://doi.org/10.1002/ldr.3768
+
+8. Zhou Q., Ke X. (2019). Ecological cost of cropland supplement practices associated with urban expansion: a case study of Hubei Province, China, GLP Open Science Meeting 2019, Bern, Switzerland. (Oral presentation)
+
 
 ...
