@@ -2,17 +2,15 @@
 title: "Curriculum Vitae"
 type : list-single
 ---
-{{<block class="note">}}
-The following content came from the [Compact Academic CV](https://www.latextemplates.com/template/compact-academic-cv) by [Dario Taraborelli](https://github.com/dartar).
-{{<end>}}
 
 ## Qiushi Zhou
 
 Department of Land Management\Zhejiang University
-Hangzhou/
+Hangzhou
 China, P.R., 310058
 
 Email: zhouqshi@zju.edu.cn；zhouqshi@foxmail.com
+
 URL: https://qiushi-zhou196.github.io
 
 ### Current position
@@ -45,5 +43,5 @@ Redline: Unlocking priority areas for conservation. Journal of Environmental Pla
 
 8. Zhou Q., Ke X. (2019). Ecological cost of cropland supplement practices associated with urban expansion: a case study of Hubei Province, China, GLP Open Science Meeting 2019, Bern, Switzerland. (Oral presentation)
 
-
+Update time：2023/8/8
 ...

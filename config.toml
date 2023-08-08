@@ -53,7 +53,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     # Edit by yourself:
     GithubEdit = "https://github.com/Qiushi-Zhou196/Qiushi-Zhou196.github.io/edit/master/content/"
     copyright = "&copy;"
-    copyrightYear = "2020-2021"
+    copyrightYear = "2023-2025"
     # Edit by yourself:
     GithubRepo = "https://github.com/Qiushi-Zhou196/Qiushi-Zhou196.github.io"
     # Edit by yourself:
