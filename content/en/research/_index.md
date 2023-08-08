@@ -6,7 +6,7 @@ toc: true
 ---
 ## Publications
 
-### Relocating built-up land for biodiversity conservation in an uncertain future(https://doi.org/10.1016/j.jenvman.2023.118706)
+### [Relocating built-up land for biodiversity conservation in an uncertain future](https://doi.org/10.1016/j.jenvman.2023.118706)
 
 [Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Qiushi Zhou], [Mengmeng Li](https://www.landbigdata.info/cscproject/), [Jasper van Vliet](https://research.vu.nl/en/persons/j-van-vliet)
 
