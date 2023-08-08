@@ -5,18 +5,16 @@ type : list-single
 
 ## Qiushi Zhou
 
-Department of Land Management\Zhejiang University
-Hangzhou
-China, P.R., 310058
+Department of Land Management,Zhejiang University
+
+Hangzhou,China, P.R., 310058
 
 Email: zhouqshi@zju.edu.cn；zhouqshi@foxmail.com
 
 URL: https://qiushi-zhou196.github.io
 
-### Current position
-PhD candidate
 
-### Researchgate interests
+### Research interests
 Land use change；Land use model；Biodiversity conservation
 
 ### Education
@@ -25,9 +23,9 @@ Ph.D. (2021.9- ): Department of Land Management, Zhejiang University
 M.S. (2018.9-2021.6): Department of Land Management, Huazhong Agricultural University
 B.S (2014.9-2018.6): Department of Land Management, Huazhong Agricultural University
 
-### Publications & talks
-#### Journal articles
+### Publications
 1. Yue W., Zhou Q., Li M*.,van Vliet J. (2023). Relocating built-up land for biodiversity conservation in an uncertain future. (Journal of Environmental Management). https://doi.org/10.1016/j.jenvman.2023.118706
+
 2. Yue, W., Zhou, Q., Li, M., Zhang, X*. (2023). Research on development land intensity for Main Function Zones: Pattern identification and Spatiotemporal evolution. City Planning Review (in Chinses).
 
 3. Guo A., Yue W*., Yang J., Xue B., Li M., He T., Zhang M., Jin X., Zhou Q.(2023). Cropland abandonment in China: Patterns, drivers, and implications for food security. Journal of Cleaner Production. https://doi.org/10.1016/j.jclepro.2023.138154
@@ -44,4 +42,3 @@ Redline: Unlocking priority areas for conservation. Journal of Environmental Pla
 8. Zhou Q., Ke X. (2019). Ecological cost of cropland supplement practices associated with urban expansion: a case study of Hubei Province, China, GLP Open Science Meeting 2019, Bern, Switzerland. (Oral presentation)
 
 Update time：2023/8/8
-...
