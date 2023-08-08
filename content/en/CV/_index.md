@@ -20,7 +20,9 @@ Land use change；Land use model；Biodiversity conservation
 ### Education
 
 Ph.D. (2021.9- ): Department of Land Management, Zhejiang University
+
 M.S. (2018.9-2021.6): Department of Land Management, Huazhong Agricultural University
+
 B.S (2014.9-2018.6): Department of Land Management, Huazhong Agricultural University
 
 ### Publications
