@@ -6,7 +6,7 @@ toc: true
 ---
 ## Publications
 
-### 1. Relocating built-up land for biodiversity conservation in an uncertain future
+### Relocating built-up land for biodiversity conservation in an uncertain future(https://doi.org/10.1016/j.jenvman.2023.118706)
 
 [Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Qiushi Zhou], [Mengmeng Li](https://www.landbigdata.info/cscproject/), [Jasper van Vliet](https://research.vu.nl/en/persons/j-van-vliet)
 
@@ -15,51 +15,51 @@ Abstract:.
 {{<figure src="/image/JEM.png">}}
 
 
-### 2. Cropland abandonment in China: Patterns, drivers, and implications for food security(Journal of Cleaner Production)
+### Cropland abandonment in China: Patterns, drivers, and implications for food security(Journal of Cleaner Production)
 #(https://doi.org/10.1016/j.jenvman.2023.118706)
 
 [Andong Guo], [Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Jun Yang], [Bing Xue], [Wu Xiao], [Mengmeng Li](https://www.landbigdata.info/cscproject/), [Tingting He],[Maoxin Zhang],[Qiushi Zhou]
 
-Abstract:. 
+#Abstract:. 
 
-{{<figure src="/image/JEM.png">}}
+#{{<figure src="/image/JEM.png">}}
 
-### 3. An assessment of the Ecological Conservation 
+### An assessment of the Ecological Conservation 
 Redline: Unlocking priority areas for conservation(Journal of Environmental Planning and Management)
 #(https://doi.org/10.1016/j.jenvman.2023.118706)
 
 [Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Bi'ou Feng],[Qiushi Zhou], [Ronghua Xu], [Mengmeng Li](https://www.landbigdata.info/cscproject/)
 
-Abstract:. 
+#Abstract:. 
 
-{{<figure src="/image/JEM.png">}}
+#{{<figure src="/image/JEM.png">}}
 
-### 4. Spatial impact of cropland supplement policy on regional ecosystem services under urban expansion circumstance: a case study of Hubei Province, China(Journal of Land Use Science)
+### Spatial impact of cropland supplement policy on regional ecosystem services under urban expansion circumstance: a case study of Hubei Province, China(Journal of Land Use Science)
 #(https://doi.org/10.1016/j.jenvman.2023.118706)
 
 [Xinli Ke], [Qiushi Zhou], [Chengchao Zuo], [Andy Turner]
 
-Abstract:. 
+#Abstract:. 
 
-{{<figure src="/image/JEM.png">}}
+#{{<figure src="/image/JEM.png">}}
 
-### 5. Projecting future impacts of cropland reclamation policies on carbon storage(Ecological Indicators)
+### Projecting future impacts of cropland reclamation policies on carbon storage(Ecological Indicators)
 #(https://doi.org/10.1016/j.jenvman.2023.118706)
 
 [Lanping Tang],[Xinli Ke], [Qiushi Zhou], [Liye Wang], [Eric Koomen]
 
-Abstract:. 
+#Abstract:. 
 
-{{<figure src="/image/JEM.png">}}
+#{{<figure src="/image/JEM.png">}}
 
-### 6. Which impacts more seriously on natural habitat loss and degradation? Cropland expansion or urban expansion?(Land Degradation & Development)
+### Which impacts more seriously on natural habitat loss and degradation? Cropland expansion or urban expansion?(Land Degradation & Development)
 #(https://doi.org/10.1016/j.jenvman.2023.118706)
 
 [Lanping Tang],[Xinli Ke], [Yuanyuan Chen], [Liye Wang], [Qiushi Zhou], [Weiwei Zheng],[Bangyong Xiao]
 
-Abstract:. 
+#Abstract:. 
 
-{{<figure src="/image/JEM.png">}}
+#{{<figure src="/image/JEM.png">}}
 
 ***
 
