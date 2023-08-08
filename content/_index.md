@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="/image/mountains-7592709.jpg" caption="Jungfrau image, source：pasja at pixabay. ">}}
+{{<figure src="/image/mountains-7592709.jpg" caption="Jungfrau image, source：pasja1000 at pixabay. ">}}
 
 I am Qiushi Zhou, currently working at department of land management, Zhejiang University.
 
