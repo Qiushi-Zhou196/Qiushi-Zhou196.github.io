@@ -10,7 +10,7 @@ toc: true
 
 Journal：Journal of Environmental Management
 
-[Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Qiushi Zhou], [Mengmeng Li](https://www.landbigdata.info/cscproject/), [Jasper van Vliet](https://research.vu.nl/en/persons/j-van-vliet)
+[Wenze Yue](https://person.zju.edu.cn/wzyue#0), **[Qiushi Zhou]**, [Mengmeng Li](https://www.landbigdata.info/cscproject/), [Jasper van Vliet](https://research.vu.nl/en/persons/j-van-vliet)
 
 Abstract:. 
 
@@ -18,11 +18,13 @@ Abstract:.
 
 
 
+
 ### [Cropland abandonment in China: Patterns, drivers, and implications for food security](https://doi.org/10.1016/j.jclepro.2023.138154)
 
 Journal：Journal of Cleaner Production
 
-[Andong Guo], [Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Jun Yang], [Bing Xue], [Wu Xiao], [Mengmeng Li](https://www.landbigdata.info/cscproject/), [Tingting He],[Maoxin Zhang],[Qiushi Zhou]
+[Andong Guo], [Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Jun Yang], [Bing Xue], [Wu Xiao], [Mengmeng Li](https://www.landbigdata.info/cscproject/), [Tingting He],[Maoxin Zhang],**[Qiushi Zhou]**
+
 
 
 
@@ -30,7 +32,8 @@ Journal：Journal of Cleaner Production
 
 Journal：Journal of Environmental Planning and Management
 
-[Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Bi'ou Feng],[Qiushi Zhou], [Ronghua Xu], [Mengmeng Li](https://www.landbigdata.info/cscproject/)
+[Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Bi'ou Feng],**[Qiushi Zhou]**, [Ronghua Xu], [Mengmeng Li](https://www.landbigdata.info/cscproject/)
+
 
 
 
@@ -38,19 +41,25 @@ Journal：Journal of Environmental Planning and Management
 
 Journal：Journal of Land Use Science
 
-[Xinli Ke]（http://ggxy.hzau.edu.cn/info/1064/5971.htm）, [Qiushi Zhou], [Chengchao Zuo]（http://ggxy.hzau.edu.cn/info/1062/3112.htm）, [Andy Turner]
+[Xinli Ke](http://ggxy.hzau.edu.cn/info/1064/5971.htm), **[Qiushi Zhou]**, [Chengchao Zuo](http://ggxy.hzau.edu.cn/info/1062/3112.htm), [Andy Turner]
+
+
+
 
 ### [Projecting future impacts of cropland reclamation policies on carbon storage](https://doi.org/10.1016/j.ecolind.2020.106835)
 
 Journal：Ecological Indicators
 
-[Lanping Tang],[Xinli Ke]（http://ggxy.hzau.edu.cn/info/1064/5971.htm）, [Qiushi Zhou], [Liye Wang], [Eric Koomen]
+[Lanping Tang],[Xinli Ke](http://ggxy.hzau.edu.cn/info/1064/5971.htm), **[Qiushi Zhou]**, [Liye Wang], [Eric Koomen]
+
+
+
 
 ### [Which impacts more seriously on natural habitat loss and degradation? Cropland expansion or urban expansion?](https://doi.org/10.1002/ldr.3768)
 
 Journal：Land Degradation & Development
 
-[Lanping Tang],[Xinli Ke]（http://ggxy.hzau.edu.cn/info/1064/5971.htm）, [Yuanyuan Chen], [Liye Wang], [Qiushi Zhou], [Weiwei Zheng],[Bangyong Xiao]
+[Lanping Tang],[Xinli Ke](http://ggxy.hzau.edu.cn/info/1064/5971.htm), [Yuanyuan Chen], [Liye Wang], **[Qiushi Zhou]**, [Weiwei Zheng],[Bangyong Xiao]
 
 ***
 
