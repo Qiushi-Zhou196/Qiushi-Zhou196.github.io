@@ -6,60 +6,40 @@ toc: true
 ---
 ## Publications
 
-### [Relocating built-up land for biodiversity conservation in an uncertain future](https://doi.org/10.1016/j.jenvman.2023.118706)
+### Yue W., **Zhou Q.**, Li M*.,van Vliet J. (2023). Relocating built-up land for biodiversity conservation in an uncertain future.Journal of Environmental Management
 
-Journal：Journal of Environmental Management
-
-[Wenze Yue](https://person.zju.edu.cn/wzyue#0), **[Qiushi Zhou]**, [Mengmeng Li](https://www.landbigdata.info/cscproject/), [Jasper van Vliet](https://research.vu.nl/en/persons/j-van-vliet)
-
-Abstract:. 
-
-{{<figure src="/image/JEM.png">}}
+{{<figure src="/image/Article_Yue_2023_JEM.png">}}
 
 
 
+### 岳文泽，**周秋实**，李蒙蒙，张衔春.(2023).面向主体功能分区的建设用地强度研究：模式识别与时空演变.城市规划
 
-### [Cropland abandonment in China: Patterns, drivers, and implications for food security](https://doi.org/10.1016/j.jclepro.2023.138154)
-
-Journal：Journal of Cleaner Production
-
-[Andong Guo], [Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Jun Yang], [Bing Xue], [Wu Xiao], [Mengmeng Li](https://www.landbigdata.info/cscproject/), [Tingting He],[Maoxin Zhang],**[Qiushi Zhou]**
+{{<figure src="/image/Article_岳_2023_城市规划.jpg">}}
 
 
+### Guo A., Yue W*., Yang J., Xue B., Li M., He T., Zhang M., Jin X., **Zhou Q.**(2023). Cropland abandonment in China: Patterns, drivers, and implications for food security. Journal of Cleaner Production.
+
+{{<figure src="/image/Article_Guo_2023_JCP.png">}}
 
 
-### [An assessment of the Ecological Conservation Redline: Unlocking priority areas for conservation](https://doi.org/10.1080/09640568.2022.2145939)
+### Yue, W., Feng, B., **Zhou, Q.**, Xu, R., & Li, M*. (2022). An assessment of the Ecological Conservation Redline: Unlocking priority areas for conservation. Journal of Environmental Planning and Management.
 
-Journal：Journal of Environmental Planning and Management
-
-[Wenze Yue](https://person.zju.edu.cn/wzyue#0), [Bi'ou Feng],**[Qiushi Zhou]**, [Ronghua Xu], [Mengmeng Li](https://www.landbigdata.info/cscproject/)
+{{<figure src="/image/Article_Yue_2023_JEPM.png">}}
 
 
+### Ke, X., Zhou, Q., Zuo, C*., Tang, L., & Turner, A. (2020). Spatial impact of cropland supplement policy on regional ecosystem services under urban expansion circumstance: a case study of Hubei Province, China. Journal of Land Use Science, 15(5), 673-689. 
+
+{{<figure src="/Article_Ke_2022_tlus.jpeg">}}
 
 
-### [Spatial impact of cropland supplement policy on regional ecosystem services under urban expansion circumstance: a case study of Hubei Province, China](https://doi.org/10.1080/1747423X.2020.1817166)
+### Tang, L., Ke, X., Zhou, Q., Wang, L., & Koomen, E. (2020). Projecting future impacts of cropland reclamation policies on carbon storage. Ecological Indicators, 119, 106835. 
 
-Journal：Journal of Land Use Science
-
-[Xinli Ke](http://ggxy.hzau.edu.cn/info/1064/5971.htm), **[Qiushi Zhou]**, [Chengchao Zuo](http://ggxy.hzau.edu.cn/info/1062/3112.htm), [Andy Turner]
+{{<figure src="/image/Article_Tang_2022_EI.png">}}
 
 
+### Tang, L., Ke, X., Chen, Y., Wang, L., Zhou, Q., Zheng, W., & Xiao, B. (2021). Which impacts more seriously on natural habitat loss and degradation? Cropland expansion or urban expansion?. Land Degradation & Development, 32(2), 946-964.
 
-
-### [Projecting future impacts of cropland reclamation policies on carbon storage](https://doi.org/10.1016/j.ecolind.2020.106835)
-
-Journal：Ecological Indicators
-
-[Lanping Tang],[Xinli Ke](http://ggxy.hzau.edu.cn/info/1064/5971.htm), **[Qiushi Zhou]**, [Liye Wang], [Eric Koomen]
-
-
-
-
-### [Which impacts more seriously on natural habitat loss and degradation? Cropland expansion or urban expansion?](https://doi.org/10.1002/ldr.3768)
-
-Journal：Land Degradation & Development
-
-[Lanping Tang],[Xinli Ke](http://ggxy.hzau.edu.cn/info/1064/5971.htm), [Yuanyuan Chen], [Liye Wang], **[Qiushi Zhou]**, [Weiwei Zheng],[Bangyong Xiao]
+{{<figure src="/image/Article_Tang_2022_LDD.png">}}
 
 ***
 
