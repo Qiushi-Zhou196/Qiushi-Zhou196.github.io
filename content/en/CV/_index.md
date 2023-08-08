@@ -5,13 +5,11 @@ type : list-single
 
 ## Qiushi Zhou
 
-Department of Land Management,Zhejiang University
+Department of Land Management, Zhejiang University
 
 Hangzhou,China, P.R., 310058
 
 Email: zhouqshi@zju.edu.cn；zhouqshi@foxmail.com
-
-URL: https://qiushi-zhou196.github.io
 
 
 ### Research interests
@@ -19,7 +17,7 @@ Land use change；Land use model；Biodiversity conservation
 
 ### Education
 
-Ph.D. (2021.9- ): Department of Land Management, Zhejiang University
+Ph.D. (2021.9- present): Department of Land Management, Zhejiang University
 
 M.S. (2018.9-2021.6): Department of Land Management, Huazhong Agricultural University
 
@@ -42,5 +40,3 @@ Redline: Unlocking priority areas for conservation. Journal of Environmental Pla
 7. Tang, L., Ke, X., Chen, Y., Wang, L., Zhou, Q., Zheng, W., & Xiao, B. (2021). Which impacts more seriously on natural habitat loss and degradation? Cropland expansion or urban expansion?. Land Degradation & Development, 32(2), 946-964. https://doi.org/10.1002/ldr.3768
 
 8. Zhou Q., Ke X. (2019). Ecological cost of cropland supplement practices associated with urban expansion: a case study of Hubei Province, China, GLP Open Science Meeting 2019, Bern, Switzerland. (Oral presentation)
-
-Update time：2023/8/8
