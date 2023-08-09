@@ -22,22 +22,22 @@ toc: true
 {{<figure src="/image/Article_Guo_2023_JCP.png">}}
 
 
-### Yue, W., Feng, B., **Zhou, Q.**, Xu, R., & Li, M*. (2022). An assessment of the Ecological Conservation Redline: Unlocking priority areas for conservation. Journal of Environmental Planning and Management.
+### Yue, W., Feng, B., **Zhou Q.**, Xu, R., & Li, M*. (2022). An assessment of the Ecological Conservation Redline: Unlocking priority areas for conservation. Journal of Environmental Planning and Management.
 
 {{<figure src="/image/Article_Yue_2023_JEPM.png">}}
 
 
-### Ke, X., Zhou, Q., Zuo, C*., Tang, L., & Turner, A. (2020). Spatial impact of cropland supplement policy on regional ecosystem services under urban expansion circumstance: a case study of Hubei Province, China. Journal of Land Use Science, 15(5), 673-689. 
+### Ke, X., **Zhou Q.**, Zuo, C*., Tang, L., & Turner, A. (2020). Spatial impact of cropland supplement policy on regional ecosystem services under urban expansion circumstance: a case study of Hubei Province, China. Journal of Land Use Science, 15(5), 673-689. 
 
-{{<figure src="/Article_Ke_2022_tlus.jpeg">}}
+{{<figure src="/Article_Ke_2022_tlus.png">}}
 
 
-### Tang, L., Ke, X., Zhou, Q., Wang, L., & Koomen, E. (2020). Projecting future impacts of cropland reclamation policies on carbon storage. Ecological Indicators, 119, 106835. 
+### Tang, L., Ke, X., **Zhou Q.**, Wang, L., & Koomen, E. (2020). Projecting future impacts of cropland reclamation policies on carbon storage. Ecological Indicators, 119, 106835. 
 
 {{<figure src="/image/Article_Tang_2022_EI.png">}}
 
 
-### Tang, L., Ke, X., Chen, Y., Wang, L., Zhou, Q., Zheng, W., & Xiao, B. (2021). Which impacts more seriously on natural habitat loss and degradation? Cropland expansion or urban expansion?. Land Degradation & Development, 32(2), 946-964.
+### Tang, L., Ke, X., Chen, Y., Wang, L.,**Zhou Q.**, Zheng, W., & Xiao, B. (2021). Which impacts more seriously on natural habitat loss and degradation? Cropland expansion or urban expansion?. Land Degradation & Development, 32(2), 946-964.
 
 {{<figure src="/image/Article_Tang_2022_LDD.png">}}
 

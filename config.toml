@@ -1,6 +1,6 @@
 baseURL = "https://qiushi-zhou196.github.io/"
 languageCode = "en-us"
-title = "Hugo-HT"
+title = "Qiushi Zhou"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
