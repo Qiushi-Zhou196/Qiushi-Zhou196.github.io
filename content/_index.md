@@ -2,8 +2,10 @@
 title: Home
 ---
 
-{{<figure src="/image/mountains-7592709.jpg" caption="Jungfrau image, source：pasja1000 at pixabay. ">}}
+{{<figure src="/IMG_20190420_121731.jpg" caption="interlaken, Switzerland.Photo by myself in April 2019. ">}}
 
-I am Qiushi Zhou, currently working at department of land management, Zhejiang University.
+Hello, I am Qiushi Zhou, currently studying at Department of Land Management, Zhejiang University.
 
 这里是周秋实的个人网站。我目前在浙江大学土地管理系就读。
+
+Email: zhouqshi@zju.edu.cn\
